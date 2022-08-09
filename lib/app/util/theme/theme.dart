@@ -8,9 +8,9 @@ ThemeData themeData() {
       /*App bar titles*/
       headline1: base.headline1!.copyWith(
           fontFamily: 'AlbertSans',
-          fontSize: 20.0,
+          fontSize: 38.0,
           color: white,
-          fontWeight: FontWeight.w700),
+          fontWeight: FontWeight.w800),
       headline2: base.headline2!.copyWith(
           fontFamily: 'AlbertSans',
           fontSize: 18.0,
